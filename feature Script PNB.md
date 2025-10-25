@@ -1,4 +1,4 @@
-# Dokumentasi Fitur PNB Script
+# Fitur PNB Script
 
 ## Pengaturan Utama
 - **Posisi Break (X/Y)**: Koordinat tempat yang akan melakukan break/farming.
@@ -41,16 +41,16 @@
 
 
 
-### Preview Webhook and Gui
-1. **Tampilan GUI Statistik**  
+### Preview Information
+1. **Webhook**  
    ![Webhook](https://cdn.discordapp.com/attachments/1203562967954882601/1404456885444411444/pwebhok.PNG?ex=68fd79a7&is=68fc2827&hm=d7998c34b1d9731fea299e491ab1756736704b8a02a375b5bba46b19462c21d3&)
 
-2. **Tampilan GUI Statistik**  
+2. **Account Information**  
    ![Account Information](https://cdn.discordapp.com/attachments/1203562967954882601/1411380831687016498/1.PNG?ex=68fd9d94&is=68fc4c14&hm=46156b0a3362e93b3dbcc351949b1564aec8bade9750e8af98f554d0bea6a41d&)
 
-3. **Posisi Telephone**  
+3. **History Magplant**  
    ![History Magplant](https://cdn.discordapp.com/attachments/1203562967954882601/1411380832177754184/2.PNG?ex=68fd9d94&is=68fc4c14&hm=df72e1533582345bf792ed4ecce042e3530b1f00acdff176b8ad1bddacfeaf69&)
 
-4. **Pengaturan Magplant**  
+4. **Farming Statistic**  
    ![Farming Statistic](https://cdn.discordapp.com/attachments/1203562967954882601/1411380832530333837/Capture.PNG?ex=68fd9d94&is=68fc4c14&hm=eaa6a215e8ffd635e2af0750f6bc0298eddb57edcf7bbcba1227f5d85a26ae1b&)
 
